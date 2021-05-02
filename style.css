@@ -14,7 +14,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgb(33, 151, 197);
+    background-color: rgb(65, 161, 199);
 }
 
 .vidus {
@@ -22,7 +22,7 @@ body {
     position: relative;
     height: 200px;
     width: 1000px;
-    background-color: rgb(84, 72, 92);
+    background-color: rgb(209, 83, 9);
     margin: auto;
     bottom: 600px;
 }
@@ -32,7 +32,7 @@ body {
     position: relative;
     height: 200px;
     width: 200px;
-    background-color: rgb(119, 105, 129);
+    background-color: rgb(230, 197, 14);
     margin: auto;
     top: -200px;
     
@@ -41,7 +41,7 @@ body {
 .jumts1 {
 
     position: relative;
-    border-bottom: 200px solid rgb(24, 5, 37);
+    border-bottom: 200px solid rgb(199, 137, 2);
     border-left: 100px solid transparent;
     height: 0;
     width: 100px;
@@ -53,7 +53,7 @@ body {
 .jumts2 {
 
     position: relative;
-    border-bottom: 200px solid rgb(24, 5, 37);
+    border-bottom: 200px solid rgb(199, 137, 2);
     border-right: 100px solid transparent;
     height: 0;
     width: 100px;
